@@ -49,7 +49,7 @@ A React-based web application to browse popular movies, filter by genre, search 
 3. Create a `.env` file in the root directory and add your TMDb API key:
 
    ```env
-   REACT_APP_TMDB_API_KEY=your_api_key_here
+   REACT_APP_TMDB_API_KEY=your_api_key
    ```
 
 4. Start the development server:
